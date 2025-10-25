@@ -8,7 +8,7 @@ As seen on class create a new Github Repository via:
 
 ![Repository creation screenshot](repository_creation.png)
 
-Name it `ub-agile-data-science-ub`.
+Name it `ub-agile-data-science-dvc`.
 
 Clone the repository locally via the following command:
 
