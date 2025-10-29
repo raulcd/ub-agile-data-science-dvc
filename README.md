@@ -30,7 +30,7 @@ Add, commit and push the requirements.txt file to GitHub.
 
 ```bash
 git add .
-git commit -m "Add initial requirements.txt
+git commit -m "Add initial requirements.txt"
 git push
 ```
 
