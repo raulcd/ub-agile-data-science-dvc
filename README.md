@@ -41,7 +41,17 @@ Example with virtualenv:
 
 ```bash
 python -m venv .venv
+```
+
+Activate the virtual environment on Linux or macOS:
+```
 source .venv/bin/activate
+```
+
+For Windows you might need to use from `git bash`:
+
+```bash
+.venv/Scripts/activate
 ```
 
 Install `requirements.txt`:
