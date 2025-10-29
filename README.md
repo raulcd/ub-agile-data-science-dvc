@@ -121,6 +121,10 @@ git commit -m "Add initial data_xml.dvc dataset"
 git push
 ```
 
+```bash
+dvc push
+```
+
 ## Create remote store
 
 Create a new folder called `dvcstore` outside of the Project repository, can be anywhere on your filesystem.
